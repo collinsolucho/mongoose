@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-project",
+  "version": "1.0.0",
+  "description": "A Mongoose MongoDB connection example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}

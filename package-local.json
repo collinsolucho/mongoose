@@ -1,0 +1,18 @@
+{
+  "name": "mongoose-local-demo",
+  "version": "1.0.0",
+  "description": "Mongoose demo with local MongoDB connection",
+  "main": "index-local.js",
+  "scripts": {
+    "start": "node index.js",
+    "mock": "node index-mock.js",
+    "local": "node index-local.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["mongoose", "mongodb", "nodejs"],
+  "author": "",
+  "license": "MIT"
+}
